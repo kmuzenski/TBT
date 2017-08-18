@@ -1,44 +1,44 @@
 body {
 	background-color: #FFFFFF;
-	border-color: #7442f4;
+	border-color: #c28eef;
 	border-width: 3px;
 	border-style: solid;
 }
 
 @font-face {
 	font-family:fairy;
-	src: url(../fonts/fairy.ttf);
+	src: url(../fonts/stardust.ttf);
 }
 
 h1 {
-	color:#7442f4;
+	color:#c28eef;
 	font-size: 100px;
 }
 
 h2 {
-	color:#7442f4;
+	color:#c28eef;
 	font-size: 72px;
 }
 
 h3 {
-	color:#7442f4;
+	color:#c28eef;
 	font-size: 60px;
 }
 
 h4 {
-	color:#7442f4;
+	color:#c28eef;
 	font-size: 48px;
 
 }
 
 h5 {
-	color:#7442f4;
+	color:#c28eef;
 	font-size: 30px;
 
 }
 
 h6 {
-	color:#7442f4;
+	color:#c28eef;
 	font-size: 28px;
 
 }
@@ -49,12 +49,12 @@ a {
 }
 
 p {
-	color:#7442f4;
+	color:#c28eef;
    
 }
 
 #mynavb {
-	background-color:#7442f4; 
+	background-color:#c28eef; 
 }
 
 #mynav {
