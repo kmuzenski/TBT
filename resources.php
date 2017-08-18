@@ -9,15 +9,15 @@
 <br><br><br><br><br>
 
 <center>
-<div class="container" id="dborder">
+<div class="container">
 <div class="row">
-<div class="col-md-6 col-md-push-6">
+<div class="col-md-6 col-md-push-6" id="dborder">
 
 <h6>Search Locally</h6>
 
 </div>
 
-<div class="col-md-6 col-md-pull-6">
+<div class="col-md-6 col-md-pull-6" id="dborder">
 
 <h6>National Resources</h6>
 
