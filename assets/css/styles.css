@@ -50,8 +50,17 @@ p {
    
 }
 
-.nav {
+#mynavb {
 	background-color:#7442f4; 
+}
+
+#mynav {
+	font-color: white;
+	font-size: 24px;
+}
+
+#navborder {
+	border: 1px solid #FFFFFF;
 }
 
 
