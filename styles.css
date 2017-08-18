@@ -1,0 +1,55 @@
+body {
+	background-color: #FFFFFF;
+}
+
+@font-face {
+	font-family:fairy;
+	src: url(../fonts/fairy.ttf);
+}
+
+h1 {
+	color:#2010a0;
+	font-size: 100px;
+}
+
+h2 {
+	color:#2010a0;
+	font-size: 72px;
+}
+
+h3 {
+	color:#2010a0;
+	font-size: 60px;
+}
+
+h4 {
+	color:#2010a0;
+	font-size: 48px;
+
+}
+
+h5 {
+	color:#2010a0;
+	font-size: 30px;
+
+}
+
+h6 {
+	color:#2010a0;
+	font-size: 28px;
+
+}
+
+a {
+	color:#FFFFFF;
+  
+}
+
+p {
+	color:#2010a0;
+   
+}
+
+
+
+
