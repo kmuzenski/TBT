@@ -11,9 +11,9 @@
 <center>
 <div class="container">
 <div class="row">
-<div class="col-xs-12 col-md-4 col-lg-4">
+<div class="col-xs-6 col-md-6 col-lg-6">
 
-<img src="assets/img/bubs.jpg">
+<img src="assets/img/logo.jpg">
 <p>#TBT<p>
 
 </div>
