@@ -15,7 +15,7 @@
 
   <div class="col-xs-12 col-md-4 col-lg-4" id="navborder" >
   <center>
-  <p><a href="contact.php" id="mynav" title="contact">Contact</a></p>
+  <p><a href="contact.php" id="mynav" title="contact" id="mynav">Contact</a></p>
   </center>
   </div>
 
