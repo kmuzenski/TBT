@@ -63,7 +63,13 @@ p {
 }
 
 #navborder {
-	border: 1px solid #FFFFFF;
+	border: 2px solid #FFFFFF;
+}
+
+#dborder {
+	border: 2px solid #c28eef;
+}
+
 }
 
 
