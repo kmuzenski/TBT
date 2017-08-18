@@ -13,7 +13,7 @@
 <div class="row">
 <div class="col-xs-6 col-md-6 col-lg-6">
 
-<h3>Search Locally</h3>
+<h6>Search Locally</h6>
 
 </div>
 </div>
@@ -23,7 +23,7 @@
 <div class="row">
 <div class="col-xs-6 col-md-6 col-lg-6">
 
-<h3>National Resources</h3>
+<h6>National Resources</h6>
 
 </div>
 </div>
