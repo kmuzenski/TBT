@@ -1,6 +1,6 @@
 <nav class="navbar navbar-default navbar-fixed-top">
       	
-<div class="container">
+<div class="container" id="navstyle">
   <div class="navbar-header">
     <a class="navbar-brand" href="#"><img src="assets/img/logo.jpg" width="50"></a>
   </div>
