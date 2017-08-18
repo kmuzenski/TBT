@@ -67,6 +67,7 @@ p {
 }
 
 #dborder {
+	max-width: 500px;
 	border: 2px solid #c28eef;
 }
 
