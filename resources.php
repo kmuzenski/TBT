@@ -11,17 +11,13 @@
 <center>
 <div class="container" id="dborder">
 <div class="row">
-<div class="col-xs-6 col-md-6 col-lg-6">
+<div class="col-md-6 col-md-push-6">
 
 <h6>Search Locally</h6>
 
 </div>
-</div>
-</div> <!--container-->
-<br>
-<div class="container" id="dborder">
-<div class="row">
-<div class="col-xs-6 col-md-6 col-lg-6">
+
+<div class="col-md-6 col-md-pull-6">
 
 <h6>National Resources</h6>
 
